@@ -1,0 +1,18 @@
+.env
+.env.*
+.codex
+
+backend/.env
+backend/.env.*
+backend/venv/
+# backend/media/
+
+frontend/.env
+frontend/.env.*
+frontend/node_modules/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
